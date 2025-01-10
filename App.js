@@ -124,6 +124,8 @@ const App = () => {
       setPantalla('bienvenida');
       return null;
   }
+
+  //teste//
 };
 
 const styles = StyleSheet.create({
